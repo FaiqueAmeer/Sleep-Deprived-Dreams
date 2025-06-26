@@ -1,4 +1,4 @@
-print ("Disclaimer: The findings presented in this report are based on the available data, which may
+"Disclaimer: The findings presented in this report are based on the available data, which may
 have limitations and uncertainties. The unusual covariance structure between Depression and
 Anxiety scores suggests that the data may not be entirely reliable. Therefore, the conclusions
 drawn from this analysis should be considered preliminary and subject to further investigation.
@@ -7,7 +7,7 @@ The group chose the topic of sleep and how different factors such as mental heal
 affect students' sleep. We obtained our data from a case study that conducted a comprehensive
 analysis of stress factors affecting students through a machine learning approach. This case
 study can be found in the data availability section of the article.
-https://link.springer.com/article/10.1007/s44163-024-00169-6#data-availability."/n)
+https://link.springer.com/article/10.1007/s44163-024-00169-6#data-availability.
 Challenges:
 The biggest challenge our group faced was data collection. We originally found data on
 Kaggle but after a closer evaluation of its reliability, we found that the data was artificial. As a
